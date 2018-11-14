@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>shop-parent</name>
-    <description>Demo project for Spring Boot</description>
+    <description>shop-parent project for Spring Boot</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
